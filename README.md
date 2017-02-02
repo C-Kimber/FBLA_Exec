@@ -1,39 +1,28 @@
- _______________________________________________________________________________________
-|_______________________________________________________________________________________|
-|___##\___##\_______________________________##\_________________##\_____________________|
-|___###\__## |______________________________##_|________________##_|____________________|
-|___####\_## |_######\___######\___######\__#######\___######\__##_|__##\_##\___##\_____|
-|___## ##\## |_\____##\_## ___##\_##____##\_##____##\__\____##\_##_|_##__|##_|__##_|____|
-|___## \#### |_#######_|## /__##_|##_/  ##_|##_|__##_|_#######_|######__/_##_|__##_|____|
-|___## |\### |##____##_|## |__##_|##_|__##_|##_|__##_|##____##_|##___##<__##_|__##_|____|
-|___## | \## |\#######_|#######__|\######__|##_|__##_|\#######_|##_|_\##\_\######__|____|
-|___\__|__\__|_\_______|##______/__\______/_\__|__\__|_\_______|\__|__\__|_\______/_____|
-|_______________________##_|____________________________________________________________|
-|_______________________##_|____________________________________________________________|
-|_______________________\__|____________________________________________________________|
-|_______________________________________________________________________________________|
-|_______________________________________________________________________________________|
-|___Napohaku is a competetive two player game.__________________________________________|
-|___The is to gather gems and to get as much points as possible,________________________|
-|___while avoiding lava and deadly falls._______________________________________________|
-|_______________________________________________________________________________________|
-|___To Run the game, enter the folder exe.win32-2.7, and double click the "Napohaku.exe"|
-|___file, and ejoy!_____________________________________________________________________|
-|_______________________________________________________________________________________|
-|___________Player_1____|______Player_2_________________________________________________|
-|___JUMP_______ W ______|______ I ______________________________________________________|
-|___LEFT_______ A ______|______ J ______________________________________________________|
-|___RIGHT______ D ______|______ L ______________________________________________________|
-|___GO DOWN____ S ______|______ K ______________________________________________________|
-|_______________________________________________________________________________________|
-|___Collide into the other player to bump them, try to bump them into the lava!_________|
-|___Collect the gems that fall from the sky!____________________________________________|
-|___Watch the time, when it hits zero, your dark side comes out.________________________|
-|_______________________________________________________________________________________|
-|__ My experience in creating this game has been incredibly informative, _______________|
-|__ this game has been the most complicated and complete game i have worked on. ________|
-|__ Considering I have built this game from scratch using only Python and a ____________|
-|__ graphics library Pygame, I have learned a ton about optimizing visuals. ____________|
-|__ I still have much to learn and I look forward to it! _______________________________|
-|_______________________________________________________________________________________|
-|_______________________________________________________________________________________|
+Napohaku is a competitive two player game.
+The is to gather gems and to get as much points as possible,
+while avoiding lava and deadly falls.
+
+To Run the game, enter the folder exe.win32-2.7, and double click the "Napohaku.exe"
+file, and enjoy!
+
+Player1
+JUMP WI 
+LEFT A 
+RIGHT D 
+GO DOWN S 
+
+Player2
+JUMP  I 
+LEFT  J 
+RIGHT  L 
+GO DOWN  K 
+
+Collide into the other player to bump them, try to bump them into the lava!
+Collect the gems that fall from the sky!
+Watch the time, when it hits zero, your dark side comes out.
+
+ My experience in creating this game has been incredibly informative, 
+ this game has been the most complicated and complete game i have worked on. 
+ Considering I have built this game from scratch using only Python and a 
+ graphics library Pygame, I have learned a ton about optimizing visuals. 
+ I still have much to learn and I look forward to it! 
