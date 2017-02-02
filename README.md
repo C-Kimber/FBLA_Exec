@@ -6,7 +6,7 @@ To Run the game, enter the folder exe.win32-2.7, and double click the "Napohaku.
 file, and enjoy!
 
 Player1
-JUMP WI 
+JUMP W 
 LEFT A 
 RIGHT D 
 GO DOWN S 
